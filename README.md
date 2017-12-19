@@ -30,28 +30,26 @@ Finally, it would result in an aware and resposible treatment of individual data
 * **aware** is a first android application supporting easy data creation.
 
 ### Timed
-Url: https://github.com/libreqs/timed
-Stack: server-side, API documentation
-Language: php
-Frameworks: symfony4, composer
-Deployment: magallanes
+- Url: https://github.com/libreqs/timed
+- Stack: server-side, API documentation
+- Language: php
+- Frameworks: symfony4, composer
+- Deployment: magallanes
 
 ### Timed4j
-Url: https://github.com/libreqs/timed4j
-Stack: middleend, server-side
-Language: java
-Frameworks: 
+- Url: https://github.com/libreqs/timed4j
+- Stack: middleend, server-side
+- Language: java
+- Frameworks:
 
 ### pyTimed
-Url: https://github.com/libreqs/pyTimed
-Stack: middleend, server-side
-Language: python
-Frameworks: 
+- Url: https://github.com/libreqs/pyTimed
+- Stack: middleend, server-side
+- Language: python
+- Frameworks:
 
 ### Aware
-Url: https://github.com/libreqs/aware
-Stack: frontend
-Language: java
-Frameworks: android, grunt
-
-
+- Url: https://github.com/libreqs/aware
+- Stack: frontend
+- Language: java
+- Frameworks: android, grunt
