@@ -1,5 +1,5 @@
 <p align="center"><a href="https://libreqs.org" target="_blank">
-    <img src="https://github.com/libreqs/roadmap/libreqs.png">
+    <img src="https://raw.githubusercontent.com/libreqs/roadmap/master/libreqs.png">
 </a></p>
 
 [LibreQS][1] is an open source project building an ecosystem for managing time series data in a protected manner.
