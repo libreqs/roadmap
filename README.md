@@ -1,5 +1,8 @@
-# LibreQS
-LibreQS is an open source project building an ecosystem for managing time series data in a protected manner.
+<p align="center"><a href="https://libreqs.org" target="_blank">
+    <img src="https://github.com/libreqs/roadmap/libreqs.png">
+</a></p>
+
+[LibreQS][1] is an open source project building an ecosystem for managing time series data in a protected manner.
 It contains several projects including a service for data storage, APIs to access this service and clients demonstrating how to use the API and making first applications possible.
 
 The project is in an early prototyping phase and every open source developer is warmly welcomed.
@@ -53,3 +56,5 @@ Finally, it would result in an aware and resposible treatment of individual data
 - Stack: frontend
 - Language: java
 - Frameworks: android, grunt
+
+[1]: https://libreqs.org
